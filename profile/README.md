@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<!--
+## Welcome to Azure Application Insights Code Optimizations Extensions (preview) for Visual Studio and Visual Studio Code.
 
-**Here are some ideas to get you started:**
+If you are using App Insights Code Optimizations https://aka.ms/CodeOptimizations/Docs, these extensions can help you generate a code fix proposal for performance issues identified by App Insights Code Optimizations for your running. NET apps. Please note that bringing your own GitHub Copilot subscription is required. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+During this preview period there is a current support for the developement environments:
+
+Visual Studio 17 or higher - https://github.com/copilot-code-optimizations/VS-Extension
+
+Visual Studio Code - INSIDERS - https://github.com/copilot-code-optimizations/VS-Code-Extension
+
+If you have any questions or feedback, please submit an issue or e-mail us directly at CodeOptimizations@Microsoft.com.
