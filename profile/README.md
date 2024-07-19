@@ -6,7 +6,7 @@ If you are using App Insights Code Optimizations https://aka.ms/CodeOptimization
 
 During this preview period there is a current support for the followig developement environments:
 
-* **Visual Studio 17** or higher - https://github.com/copilot-code-optimizations/VS-Extension
+* **Visual Studio 17.9** and higher - https://github.com/copilot-code-optimizations/VS-Extension
 
 * **Visual Studio Code - INSIDERS** - https://github.com/copilot-code-optimizations/VS-Code-Extension
 
