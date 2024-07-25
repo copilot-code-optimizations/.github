@@ -4,6 +4,9 @@
 
 If you are using App Insights Code Optimizations https://aka.ms/CodeOptimizations/Docs, these extensions can help you generate a code fix proposal for performance issues identified by App Insights Code Optimizations for your running. NET apps. Please note that bringing your own GitHub Copilot subscription is required. 
 
+> [!IMPORTANT] 
+> To gain access to this preview, your GitHub account needs to be part of this organization. Please fill this form https://aka.ms/CodeOptimizations/PreviewFeatures and our team will send you an invite.
+
 During this preview period there is a current support for the followig developement environments:
 
 * **Visual Studio 17.9** and higher - https://github.com/copilot-code-optimizations/VS-Extension
