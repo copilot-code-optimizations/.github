@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Welcome to Azure Application Insights Code Optimizations Extensions (preview) for Visual Studio and Visual Studio Code.
+## Welcome to Azure Application Insights Code Optimizations extensions (preview) for Visual Studio and Visual Studio Code.
 
 If you are using App Insights Code Optimizations https://aka.ms/CodeOptimizations/Docs, these extensions can help you generate a code fix proposal for performance issues identified by App Insights Code Optimizations for your running. NET apps. Please note that bringing your own GitHub Copilot subscription is required. 
 
