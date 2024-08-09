@@ -11,6 +11,6 @@ During this preview period there is a current support for the followig developem
 
 * **Visual Studio 17.9** or higher - https://github.com/copilot-code-optimizations/VS-Extension
 
-* **Visual Studio Code 1.90 ** or higher - https://github.com/copilot-code-optimizations/VS-Code-Extension
+* **Visual Studio Code 1.90** or higher - https://github.com/copilot-code-optimizations/VS-Code-Extension
 
 If you have any questions or feedback, please submit an issue or e-mail us directly at CodeOptimizations@Microsoft.com.
